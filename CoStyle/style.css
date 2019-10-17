@@ -1,0 +1,10 @@
+/*common/CoStyle*/
+.aMainer { display: flex; justify-content: center; align-items: center; min-height: 600px; position: relative; }
+	.container-fluid-ed { text-align: center; padding: 0; }
+	.container-fluid-ed i { color: #cc8500; }
+	.nav-ed { margin: 0 auto; }
+	.row-bottom { position: absolute; bottom: 20px; width: 100%; }
+	.col-ed { padding: 0; }
+
+.bMainer{}
+.decor-ed { width: 100%; text-align: center; }
