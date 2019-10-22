@@ -10,15 +10,7 @@ $(document).ready(function () {
 
 
 
-    // owlCarousel plugin
-    $('.owl-carousel').owlCarousel({
-        loop: false,
-        margin: 10,
-        nav: true,
-        dots: false,
-        items: 1
 
-    });
     // 控制手機選單的開關
     $('#lnk-mb').on('click tap', function () {
         $('#lnk-mb').toggleClass("on");
